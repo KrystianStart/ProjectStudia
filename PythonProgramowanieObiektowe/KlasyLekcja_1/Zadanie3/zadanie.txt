@@ -1,0 +1,16 @@
+Zad3:
+Wykonać poniższe polecenia, przetestować i przesłać na moodla.
+- Stworzyć klasę “human”, dodając jej 5 wybranych przez siebie zmiennych,
+- Stworzyć konstruktor, który będzie odpowiednio przypisywał zmienne,
+- Stworzyć 3 metody, które będę wyświelać wybraną ilość zmiennych,
+- Stworzyć 2 metody modyfikujące wybrane zmienne,
+- Stworzyć metodę, która przeliczać będzie jeden z argumentów, by ostatecznie go
+przypisać jako zmienna kasy.
+(przykład: argument waga może posiadac funkcję “podaj wagę w lbs”, która później przeliczy
+to na kg i przypisze jako argument klasy),
+Każdy z 5 podanych argumentów musi być wyświetlany i modyfikowany przez
+przynajmniej jedną funkcję
+(wybrana ilość funkcji musi wyświetlać/modyfikować więcej, niż jedną zmienną).
+- Stworzyć drugą klasę pokroju “cat” i przypisać jej wszystkie zmienne, które też mogły by
+odpowiadać tego typu istocie i analogicznie powtórzyć tworzenie konstruktora i metod;
+

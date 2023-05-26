@@ -1,0 +1,5 @@
+print("Podaj dwie wartości: ")
+x = int(input())
+y = int(input())
+zm1 = (lambda x, y: (x - y) * (x - y))(x, y)
+print(zm1)

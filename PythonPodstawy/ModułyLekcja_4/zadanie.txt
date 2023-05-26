@@ -1,0 +1,12 @@
+Zadanie
+Utwórz moduł statystyka zawierający następujące funkcje:
+
+suma (funkcja zwracająca sumę z listy)
+srednia (funkcja zwracająca średnią z listy)
+min (funkcja zwracająca wartość minimalną z listy)
+max (funkcja zwracająca wartość maksymalną z listy)
+Następnie zapisz plik pod dwiema nazwami:
+
+stats_local.py, który umieścisz w aktualnym katalogu roboczym
+stats_global.py, który umieścisz w katalogu site-packages (najpierw trzeba znaleźć jego położenie)
+Utwórz program, w którym zaimportujesz oba moduły i zaprezentujesz ich działanie.

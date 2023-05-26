@@ -1,0 +1,17 @@
+zbior1 = set()
+zbior2 = set()
+print("Podaj 4 liczby całkowite dla zbioru 1: ")
+zbior1.add(int(input()))
+zbior1.add(int(input()))
+zbior1.add(int(input()))
+zbior1.add(int(input()))
+print("Podaj 4 liczby całkowite dla zbioru 2: ")
+zbior2.add(int(input()))
+zbior2.add(int(input()))
+zbior2.add(int(input()))
+zbior2.add(int(input()))
+print(sum(zbior1) + sum(zbior2))
+print(zbior1.difference(zbior2))
+print(zbior1.intersection(zbior2))
+
+

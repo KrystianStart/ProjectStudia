@@ -1,0 +1,4 @@
+Napisz obsługę 2 błędów podanych w drzewku poniżej. W komentarzu opisz kiedy występują.
+Następnie możesz skorzystać z programów wykonanych na wcześniejszych zajęciach pod warunkiem, że każdy z wybranych błędów jest możliwy do wywołania. Kolejność błędów może mieć kluczowe znaczenie.
+Użyj również funkcji „rise” w celu wywołania jednego błędu w trakcie wykonania programu.
+Na końcu używając funkcji „assert” sprawdź, czy któraś z metod klas wykonała się poprawnie.

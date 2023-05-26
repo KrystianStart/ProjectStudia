@@ -1,0 +1,15 @@
+Korzystając z stworzonych w zadaniu 3 z laboratoriów 1 pliku, wykonać
+poniższe polecenia, przetestować i przesłać na moodla.
+- Stworzyć Klasę “Animal” po której dziedziczą obie klasy i która zawiera
+wszystkie wspólne dla nich zmienne i metody,
+- Zapoznając się z cechą poliformizmu klas, stworzyć trzecią klasę w której
+zdefiniowana będzie jedna dodatkowa zmienna i jedna dodatkowa metoda,
+- W klasie bazowej stworzyć jedną metodę abstrakcyjną o wybranym przez
+siebie zastosowaniu oraz zmienić jedną z metod wyświetlającą zmienną w
+abstrakcyjną
+- W wybranej klasie stworzyć odpowiadającą jej metodę hermetyczną (Niech
+BMI i metoda je wyliczająca nie będę pokazywane użytkownikowi, a zamiast
+tego podajmy mu wynik tej metody - niedowaga,waga prawidłowa, nadwaga)
+- Jako komentarz dodać swoje uwagi na temat dziedziczenia, polimorfi,
+hermetyzacji. Zaobserwowane wady i zalety. Min jedno zdanie, ale do trzech
+na każdą technikę programowania obiektowego.

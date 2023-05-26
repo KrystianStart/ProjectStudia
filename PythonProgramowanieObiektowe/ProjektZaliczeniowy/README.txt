@@ -1,0 +1,1 @@
+Projekt musi zostać zoptymalizowany oraz naprawiony jego obecna wersja nie spełnia wymaganią 

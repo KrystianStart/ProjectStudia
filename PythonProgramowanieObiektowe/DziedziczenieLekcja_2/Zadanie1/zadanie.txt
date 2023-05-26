@@ -1,0 +1,16 @@
+Funkcja kwadratowa
+Niech FunkcjaKwadratowa dziedzyczy po klasie Funkcja. Klasa Funkcja
+powinna posiadać metodę Rozwiaz(). Następnie stworzyć klasę
+FunkcjaLiniowa analogicznie do klasy FunkcjaKwadratowa. Klasa ta powinna
+nie posiadać zawartości ( wszystko powinno się dziać w klasie nadrzędnej)
+
+
+Ułamek
+Niech UlamekZ dziedzyczy po klasie Ulamek. Klasa Ulamek powinna
+posiadać metody dodaj(), odejmij(), mnoz(), dziel(). Następnie stworzyć klasę
+UlamekD przestawiający ułamek dziesiętny. Klasa ta powinna przyjmować
+pojedynczą liczbę zmiennoprzecinkową w celu zamiany jej na licznik i
+mianownik w konstruktorze. Konstruktor powinien napisać w konsoli
+informacje o błędzie, jeżeli mianownik nie będzie liczbami z przedziału:
+10-10
+4

@@ -1,0 +1,2 @@
+Zadanie 6
+Utwórz katalog projektu, w którym założysz środowisko izolowane, a następie aktywuj je i zainstaluj w nim (za pomocą maganera pakietów pip) wybrane biblioteki (np. numpy, jupyter, matplotlib, pandas). Następnie utwórz skrypt Pythona i zademonstruj (za pomocą polecenia sys.exec_prefix) w jakim środowisku pracuje.

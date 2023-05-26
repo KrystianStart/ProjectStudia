@@ -1,0 +1,8 @@
+Zadanie 4.3
+Stwórz plik tekstowy z kilkoma wierszami danych, a następnie napisz program, który wypisze zawartość utworzonego pliku do konsoli.
+
+Zadanie 4.4
+Napisz program, który tworzy plik i wpisuje liczby od 0-10, każdą w następnej linii, następnie zamyka i otwiera ponownie plik i dopisuje litery alfabetu, każdą następną w nowej linii.
+
+Zadanie 4.5
+Napisz program, który umożliwia zapisywanie do pliku .txt danych takich jak: imię, nazwisko, stanowisko i wynagrodzenie. Użytkownik ma mieć możliwość dodawania, usuwania i wypisywania listy osób. Usuwanie pozycji powinno działać po podaniu samego nazwiska osoby. Program powinien posiadać interaktywne menu: D-dodaj, U-usuń, W-wypisz i Q-wyjście. Podpowiedź: Utwórz funkcje: dodaj, usuń, pokaż zawartość pliku

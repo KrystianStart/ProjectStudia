@@ -1,0 +1,15 @@
+Funkcja kwadratowa
+Napisz klasę FunkcjaKwadratowa, która przechowuje funkcje typu $ax^2$+bx+c.
+Klasa powinna zawierać trzy pola: a, b, c, które są przypisywane w konstruktorze.
+Główną metodą powinna być Rozwiaz(), która zwraca miejsca zerowe podanej
+funkcji. Należy zwrócić uwagę na przypadki gdy a=0, b=0 lub c=0, a także obmyślić
+sposób informowania o nieskończonej liczbie, jednym lub zerze rozwiązań.
+
+
+Ułamek
+Napisz klasę UlamekZ, która przechowuje ułamki postaci a/b. Klasa przechowuje
+dwa pola: licznik i mianownik. Napisz metody:
+● skroc(), skraca ułamek, wymaga obliczenia największego wspólnego
+dzielnika
+● dodaj(), odejmij(), mnoz(), dziel() (statyczne) – obliczają odpowiednio
+sumę, iloczyn i iloraz dwóch ułamków

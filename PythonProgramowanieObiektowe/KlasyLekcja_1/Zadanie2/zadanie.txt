@@ -1,0 +1,26 @@
+Zad2:
+Wykonać poniższe polecenia i opowiedzieć o wynikach działań z punktów 9-10 w
+zakomentowanej części pliku .py
+Działanie zakomentowania:
+“””
+odpowiedź
+“””
+1. Utwórz klasę o nazwie Punkt, zawierającą dwa publiczne pola typu int (współrzędną x i
+współrzędną y punktu).
+2. Ustaw wartości ich współrzędnych dwóch obiektów (np. (1,2) i (5,3)) i wypisz je w postaci:
+Wspolrzedne punktu to (, ).
+3. Do klasy Punkt dodaj metodę wyswietl, która wyświetla wartości współrzędnych x i y
+punktu
+4. Do klasy Punkt dodaj dwie metody: pobierzX i pobierzY, które będą zwracały odpowiednio
+wartości współrzędnych x i y.
+6. Do klasy Punkt dodaj metodę, która będzie jednocześnie ustawiała pola x i y tej klasy.
+Nazwij ją ustawXY. Metoda przyjmuje dwa parametry.
+7. Zmodyfikuj metodę ustawXY tak, aby jako parametr przyjmowała obiekt typu Punkt i
+przetestuj jej działanie.
+8. Do klasy Punkt dodaj metodę pobierzWsp, która zwróci w wyniku nowy obiekt klasy Punkt
+o współrzędnych takich, jakie zostały zapisane w polach obiektu bieżącego.
+9. Do klasy Punkt dodaj konstruktor dwuargumentowy inicjalizujący zmienne klasy oraz
+wypisujący komunikat: Utworzono punkt (,). Utwórz kilka obiektów typu Punkt. Zaobserwuj
+wywołania konstruktora
+10. Spróbuj utworzyć obiekt klasy Punkt poprzez wywołanie konstruktora bez żadnego
+argumentu.

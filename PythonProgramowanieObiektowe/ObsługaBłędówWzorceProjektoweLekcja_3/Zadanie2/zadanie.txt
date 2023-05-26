@@ -1,0 +1,7 @@
+Opisz i pokaż w praktyce użycie trzech wzorców projektowych (może być na tym samym przykładzie):
+- Strategia
+- Polecenie
+- Metoda Szablonowa
+
+Po zdefiniowaniu wzorca projektowego podaj cechy każdego z podanych wzorców, wskaż podobieństwa i różnice między nimi.
+Praktyczne użycie musi zawierać komentarze do wskazania charakterystycznych elementów wzorca.
